@@ -1,0 +1,13 @@
+@import './src/styles/variables';
+
+.button{
+  background-color: $primaryColor;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: 1px;
+  padding: 13px 23px;
+  color: $whiteColor;
+  border: 1px solid $primaryColor;
+  height: max-content;
+}
