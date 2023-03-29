@@ -6,7 +6,7 @@ export const News = () =>{
         <section className={style.infoSection}>
             <section className={style.buttonSection}>
                 <Button onClick={()=>{console.log("jhdbfew")}} className={style.catalogButton} title={"Котолог"}/>
-                <Button onClick={()=>{console.log("jhdbfew")}} title={"Контакты"}/>
+                <Button onClick={()=>{console.log("12")}} title={"Контакты"}/>
             </section>
         </section>
 
